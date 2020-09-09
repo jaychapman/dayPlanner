@@ -50,7 +50,7 @@ Then the page is reloaded and the event is shown in the textarea because the `//
 ------
 ## What I learned
 
-This assignemnt was an excellent learning experience. I learned a lot about local storage and how to check for an item, set an item, and retrieve an item. I feel really proud of this project because I believe that I used some great problem solving skills to accomplish these goals. I spent a lot of time planning and a lot of trial and error to accomplish the stated goals. I also learned about moment.js and how to use current time and dates in my future projects.
+This assignment was an excellent learning experience. I learned a lot about local storage and how to check for an item, set an item, and retrieve an item. I feel really proud of this project because I believe that I used some great problem solving skills to accomplish these goals. I spent a lot of time planning and a lot of trial and error to accomplish the stated goals. I also learned about moment.js and how to use current time and dates in my future projects.
 
 While I am very happy with this project overall, I would still like to improve on a few aspects in the future. When I look at my js code, I realize that I used a lot of if statements and repetition to accomplish the results. I'm sure there must be a simplier way to write this code and I must continue to try to improve my coding skills. 
 
